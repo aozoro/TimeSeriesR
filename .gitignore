@@ -37,3 +37,4 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.ipynb_checkpoints/2. OperadoresR-checkpoint.ipynb
