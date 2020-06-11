@@ -38,3 +38,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 .ipynb_checkpoints/2. OperadoresR-checkpoint.ipynb
+.ipynb_checkpoints/4. FuncionesScriptR-checkpoint.ipynb
+.ipynb_checkpoints/1.ObjetosR-checkpoint.ipynb
+.ipynb_checkpoints/3. OperadoresMatricialesR-checkpoint.ipynb
